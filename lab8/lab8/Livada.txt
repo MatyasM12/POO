@@ -1,0 +1,7 @@
+6
+1 2 Par 5 Mar 2  
+2 1 Prun 10
+3 3 Cires 15 Visin 10 Nuc 5
+4 1 Cais 5
+5 1 Piersic 20
+2 1 Gutui 3
